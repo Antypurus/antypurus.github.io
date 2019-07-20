@@ -12542,11 +12542,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\craky\\Desktop\\Website\\Website\\Website.csproj",
+      "projectUniqueName": "C:\\Users\\craky\\Desktop\\Website\\Website.csproj",
       "projectName": "Website",
-      "projectPath": "C:\\Users\\craky\\Desktop\\Website\\Website\\Website.csproj",
+      "projectPath": "C:\\Users\\craky\\Desktop\\Website\\Website.csproj",
       "packagesPath": "C:\\Users\\craky\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\craky\\Desktop\\Website\\Website\\obj\\",
+      "outputPath": "C:\\Users\\craky\\Desktop\\Website\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

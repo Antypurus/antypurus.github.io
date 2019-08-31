@@ -13,3 +13,26 @@
     height: auto;
     border: white solid 4px;
 }
+
+.content-section {
+    width: 85vw;
+}
+
+.project_image img{
+    max-width: 100%;
+    min-width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+}
+
+.project_image {
+    padding-left:0;
+}
+
+.project_text {
+    padding-right:0;
+}
+
+.project {
+    margin-top: 10px;
+}

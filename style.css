@@ -2,6 +2,7 @@
     height: 100vh;
     background-image: url("https://images5.alphacoders.com/911/thumb-1920-911789.jpg");
     background-size: cover;
+    overflow-y:auto;
 }
 
 #Landing_Section {
@@ -39,6 +40,22 @@
 }
 
 .navbar {
-    background-color: rgba(255, 255, 255, .30);
+    background-color: rgba(0, 0, 0, .25);
     backdrop-filter: blur(3px);
+}
+
+.cover-text {
+    text-shadow:    0px 4px 3px rgba(0,0,0,0.4),
+                    0px 8px 13px rgba(0,0,0,0.1),
+                    0px 18px 23px rgba(0,0,0,0.1);
+}
+
+.nav_button {
+    transition: all .2s ease-in-out !important;
+}
+
+.nav_button:hover{
+    transform: scale(1.2,1.2) !important;
+    -webkit-transform:scale(1.2,1.2) !important;
+    -moz-transform:scale(1.2,1.2) !important;
 }

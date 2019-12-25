@@ -1,8 +1,12 @@
+/* Hide Scrollbar in webkit browsers*/
+::-webkit-scrollbar {
+    display: none;
+}
+
 #Landing_Screen {
     height: 100vh;
     background-image: url("https://images5.alphacoders.com/911/thumb-1920-911789.jpg");
     background-size: cover;
-    overflow-y:auto;
 }
 
 #Landing_Section {

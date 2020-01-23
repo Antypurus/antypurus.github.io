@@ -48,6 +48,13 @@
 .project {
     margin-top: 10px;
     border-radius: 50px !important;
+    transition: all .2s ease-in-out !important;
+}
+
+.project:hover {
+    transform: scale(1.035, 1.035) !important;
+    -webkit-transform: scale(1.035, 1.035) !important;
+    -moz-transform: scale(1.035, 1.035) !important;
 }
 
 .navbar {

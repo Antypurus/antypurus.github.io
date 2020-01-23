@@ -11,6 +11,7 @@
     <link rel="stylesheet"
           href="https://unpkg.com/bootstrap-material-design@4.1.1/dist/css/bootstrap-material-design.min.css"
           integrity="sha384-wXznGJNEXNG1NFsbm0ugrLFMQPWswR3lds2VeinahP8N0zJw9VWSopbjv2x7WCvX" crossorigin="anonymous">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
     <link rel="stylesheet" href="style.css">
 
@@ -20,7 +21,7 @@
 <!-- Page Body Section -->
 
 <!-- Page Navigation Bar -->
-<nav class="navbar navbar-expand-lg fixed-top">
+<nav class="navbar navbar-expand-lg fixed-top" data-aos="fade-down" data-aos-duration="250">
 
     <!-- Navbar content -->
     <div class="collapse navbar-collapse" id="Navbar Content">
@@ -111,7 +112,7 @@
         <br>
 
         <!-- Featured Projects And Experience Section -->
-        <div id="Featured_Projects_Section">
+        <div id="Featured_Projects_Section" data-aos="fade-up" data-aos-duration="250">
             <header class="text-center">
                 <div class="row">
                     <div class="col-md-0 col-lg-4">
@@ -182,7 +183,7 @@
         <br>
 
         <!-- Section that contains the featured blog posts -->
-        <div id="Featured_Blog_Posts_Section">
+        <div id="Featured_Blog_Posts_Section" data-aos="fade-up" data-aos-duration="250">
             <header class="text-center">
                 <div class="row">
                     <div class="col-md-0 col-lg-4">
@@ -245,6 +246,11 @@
 <script src="https://unpkg.com/bootstrap-material-design@4.1.1/dist/js/bootstrap-material-design.js"
         integrity="sha384-CauSuKpEqAFajSpkdjv3z9t8E7RlpJ1UP0lKM/+NdtSarroVKu069AlsRPKkFBz9"
         crossorigin="anonymous"></script>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+<script>
+    AOS.init();
+</script>
 <script>$(document).ready(function () {
   $('body').bootstrapMaterialDesign();
 });</script>

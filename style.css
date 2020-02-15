@@ -77,3 +77,13 @@
     -webkit-transform: scale(1.2, 1.2) !important;
     -moz-transform: scale(1.2, 1.2) !important;
 }
+
+a.project {
+    color: inherit !important;
+    text-decoration: none !important;
+}
+
+a.post {
+    color: inherit !important;
+    text-decoration: none !important;
+}

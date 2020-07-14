@@ -68,19 +68,19 @@ title: Blog
             <div class="row justify-content-center">
 
                 <ul>
-                    {% for post in site.categories.blogposts %}
+                    {% for blogpost in site.categories.blogposts %}
                 <div class="col-12">
-                    <a class="card project" href="{{ post.url}}">
+                    <a class="card project" href="{{ blogpost.url}}">
                         <div class="row">
                             <div class="col-8 w-75 h-100 project_text">
-                                <h5 class="card-header">{{post.title}}</h5>
+                                <h5 class="card-header">{{blogpost.title}}</h5>
                                 <div class="card-body text-justify">
-                                    <p class="card-text">{{post.excerpt}}</p>
+                                    <p class="card-text">{{blogpost.excerpt}}</p>
                                 </div>
                             </div>
                             <div class="col-4 project_image">
                                 <img class="img-fluid mx-auto  d-block"
-                                     src="/images/{{post.tags}}">
+                                     src="/images/{{blogpost.tags}}">
                             </div>
                         </div>
                     </a>

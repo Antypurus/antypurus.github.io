@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Liquium Engine Enters Development"
 date:   2020-06-15 23:50:37 +0100
 categories: jekyll update
 tags: reven.jpg
 author: Tiago
-excerpt: an excerpt
+excerpt: A new game engine enter development
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

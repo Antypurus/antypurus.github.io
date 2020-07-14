@@ -62,7 +62,7 @@ title: Blog
 <div class="container-fluid content-section">
 
     <!-- Featured Projects And Experience Section -->
-    <div id="Featured_Projects_Section" data-aos="fade-up" data-aos-duration="250">
+    <div id="Featured_Projects_Section" data-aos="fade-up" data-aos-duration="150">
 
         <div id="Projects">
             <div class="row justify-content-center">
@@ -70,7 +70,7 @@ title: Blog
                 <ul>
                     {% for post in site.categories.blogposts %}
                 <div class="col-12">
-                    <a class="card project" href="{{ post.url}}" data-aos="fade-left" data-aos-duration="150">
+                    <a class="card project" href="{{ post.url}}">
                         <div class="row">
                             <div class="col-8 w-75 h-100 project_text">
                                 <h5 class="card-header">{{post.title}}</h5>

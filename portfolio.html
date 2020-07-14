@@ -62,7 +62,7 @@ title: Portfolio
 <div class="container-fluid content-section">
 
         <!-- Featured Projects And Experience Section -->
-        <div id="Featured_Projects_Section" data-aos="fade-up" data-aos-duration="250">
+        <div id="Featured_Projects_Section" data-aos="fade-up" data-aos-duration="150">
 
             <div id="Projects">
 
@@ -71,7 +71,7 @@ title: Portfolio
                     <ul>
                         {% for project in site.categories.portfolio %}
                         <div class="col-12">
-                            <a class="card project" href="{{ project.url}}" data-aos="fade-left" data-aos-duration="150">
+                            <a class="card project" href="{{ project.url}}">
                                 <div class="row">
                                     <div class="col-8 w-75 h-100 project_text">
                                         <h5 class="card-header">{{project.title}}</h5>

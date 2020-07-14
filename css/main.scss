@@ -93,14 +93,16 @@ a.post {
   text-decoration: none !important;
 }
 
+.portfolio_jumbo {
+  background-image: url("../images/personal_img.jpg");
+  background-size: cover;
+}
 
-// Use media queries like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
+.blog_jumbo {
+  background-image: url("../images/personal_img.jpg");
+  background-size: cover;
+}
+
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;

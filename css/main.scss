@@ -93,13 +93,15 @@ a.post {
 }
 
 .portfolio_jumbo {
-  background-image: url("../images/personal_img.jpg");
+  background-image: url("../images/render.jpg");
   background-size: cover;
+  color: white;
 }
 
 .blog_jumbo {
-  background-image: url("../images/personal_img.jpg");
+  background-image: url("../images/normal_map.png");
   background-size: cover;
+  color: white;
 }
 
 @mixin media-query($device) {

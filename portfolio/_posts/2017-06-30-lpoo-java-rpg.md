@@ -8,4 +8,6 @@ author: Tiago
 excerpt: A 2D game for the Minix operating system, developed in C using only the C standard library and Minix's OS API.
 ---
 
-template
+Progamming Language: `Java`
+
+Repository: [`https://github.com/TiagoJoseMagalhaes/LPOO1617_T5G4`](https://github.com/TiagoJoseMagalhaes/LPOO1617_T5G4)

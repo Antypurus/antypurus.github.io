@@ -8,4 +8,6 @@ author: Tiago
 excerpt: A 2D game for the Minix operating system, developed in C using only the C standard library and Minix's OS API.
 ---
 
-template
+Programming Language:`C++, CUDA`
+
+Repository: [`https://github.com/TiagoJoseMagalhaes/lu_decomp`](https://github.com/TiagoJoseMagalhaes/lu_decomp)

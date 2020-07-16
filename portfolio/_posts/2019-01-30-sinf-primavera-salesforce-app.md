@@ -8,4 +8,6 @@ author: Tiago
 excerpt: A 2D game for the Minix operating system, developed in C using only the C standard library and Minix's OS API.
 ---
 
-template
+Programing Languages: `Java, Python, MS SQL Server`
+
+Repository: [`https://github.com/TiagoJoseMagalhaes/AndroidERPSinf`](https://github.com/TiagoJoseMagalhaes/AndroidERPSinf)

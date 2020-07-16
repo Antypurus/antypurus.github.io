@@ -11,3 +11,5 @@ excerpt: A 2D game for the Minix operating system, developed in C using only the
 Progaming Language: `C`
 
 [Repository](https://github.com/TiagoJoseMagalhaes/lcom)
+
+

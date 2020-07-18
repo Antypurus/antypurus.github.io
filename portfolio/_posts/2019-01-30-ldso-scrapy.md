@@ -9,3 +9,5 @@ excerpt: A 2D game for the Minix operating system, developed in C using only the
 ---
 
 Programing Languages: `HTML, CSS, JavaScript, Python, PostgreSQL`
+
+# Description

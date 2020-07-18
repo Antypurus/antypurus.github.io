@@ -14,3 +14,4 @@ Repository: [`https://github.com/TiagoJoseMagalhaes/GlassCuttingGeneticAlgo`](ht
 
 # Description
 
+This work was developed as part of an introductory class into artificial inteligence, and its goal was to teach us about the usage of genetic algorithms and gradient descent.

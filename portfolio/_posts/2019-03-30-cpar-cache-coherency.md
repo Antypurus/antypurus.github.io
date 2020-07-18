@@ -11,3 +11,6 @@ excerpt: A 2D game for the Minix operating system, developed in C using only the
 Programing Language: `C++`
 
 Repository: [`https://github.com/TiagoJoseMagalhaes/cparp1`](https://github.com/TiagoJoseMagalhaes/cparp1)
+
+# Description
+

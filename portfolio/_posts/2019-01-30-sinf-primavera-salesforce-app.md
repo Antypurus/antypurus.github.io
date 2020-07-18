@@ -11,3 +11,5 @@ excerpt: A 2D game for the Minix operating system, developed in C using only the
 Programing Languages: `Java, Python, MS SQL Server`
 
 Repository: [`https://github.com/TiagoJoseMagalhaes/AndroidERPSinf`](https://github.com/TiagoJoseMagalhaes/AndroidERPSinf)
+
+# Description

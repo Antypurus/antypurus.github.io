@@ -13,3 +13,5 @@ Programing Languages: `Java, Python, MS SQL Server`
 Repository: [`https://github.com/TiagoJoseMagalhaes/AndroidERPSinf`](https://github.com/TiagoJoseMagalhaes/AndroidERPSinf)
 
 # Description
+This work was developed as a part of introductory class into information systems and its focus was on integration with a comercial ERP, in this case Primavera which was at the time developing a web API for their system and we were the perfect guinea pigs for its...
+

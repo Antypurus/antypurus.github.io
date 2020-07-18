@@ -11,3 +11,5 @@ excerpt: A 2D game for the Minix operating system, developed in C using only the
 Programming Language:`C++, CUDA`
 
 Repository: [`https://github.com/TiagoJoseMagalhaes/lu_decomp`](https://github.com/TiagoJoseMagalhaes/lu_decomp)
+
+# Description

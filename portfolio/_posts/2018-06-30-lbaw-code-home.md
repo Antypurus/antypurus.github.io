@@ -11,3 +11,11 @@ excerpt: A 2D game for the Minix operating system, developed in C using only the
 Programing Languages: `HTML, CSS, PostgreSQL, JavaScript, PHP`
 
 Repository: [`https://github.com/DinisTrigo/CodeHome-LBAW`](https://github.com/DinisTrigo/CodeHome-LBAW)
+
+# Description
+
+This work was developed as a part of a databases and web applications class, and created a web forum that aimed to fill the same niche as stack overflow and have a similar feature set. It was developed using the laravel PHP framework and the bootstrap framework for frontend design. PostgreSQL was used due to its great feature set, and during a large development perioud all our work focused on defining all queries we would require and optimizing aspects related to them, this included triggers, transactions and indices. This platform presented moderation tools, such that bad actors could be removed. Users could either created a local login or use their google account to login.
+
+<div class="row"><div class="mx-auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cbONj8jJe54" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></div>

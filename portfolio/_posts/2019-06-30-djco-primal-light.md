@@ -12,6 +12,13 @@ Programing Language: `C#`
 
 Repository: [`https://github.com/TiagoJoseMagalhaes/feup-djco-2`](https://github.com/TiagoJoseMagalhaes/feup-djco-2)
 
+# Description
+
+This game was developed as a part of game developmetn class and served as a final project where we had to work not only as a larger team of engineers(who also doubled as game designed) but with a team of artists and a team of sound engineers/designers as well. The game to be developed was completely of our choosing and was to be developed over a roughly 2 month period. We chose to develop a somewhat open-world 3D puzzle game in Unity. Initially we had considered using the Unreal engine, however, early tests with it revealed that it would be more efficient for us to use Unity given the team's existing experience with it. The game featured several levels and puzzles, narrative cutscene and even enemies to pace gameplay between puzzles.
+
+The game had 2 major puzzles and a larger puzzle area with a large number of puzzles. Personally I was more invovolved in the light-mixing puzzle, the movement system, the camera system, narrative design, environment design and final optimization and polishing.
+
+Here you will find the trailer we produced for out game when we presented it at a local game-dev meetup. In the future I might add a longer gameplay video.
 
 <div class="row">
 <div class="mx-auto">

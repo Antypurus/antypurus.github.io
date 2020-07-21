@@ -14,4 +14,4 @@ Repository: [`https://github.com/bruno02960/LTW`](https://github.com/bruno02960/
 
 # Description
 
-This application was developed as a part of an introductory web development unit at FEUP. We were tasked with developing a web app for a persona todo list, and this app must be secure from sql injection, CSRF and XSS, as well as having to be a responsive web app. No frameworks were used to develop this web app, everything was written with pure PHP, HTML5, CSS and javascript(jquery was not allowed).
+This application was developed as a part of an introductory web development unit at FEUP. We were tasked with developing a web app for a persona todo list, and this app must be secure from SQL injection, CSRF, and XSS, as well as having to be a responsive web app. No frameworks were used to develop this web app, everything was written with pure PHP, HTML5, CSS, and javascript(jquery was not allowed).

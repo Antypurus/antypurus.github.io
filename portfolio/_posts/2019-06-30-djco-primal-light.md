@@ -25,3 +25,11 @@ Here you will find the trailer we produced for our game when we presented it at 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/13aCkjGlOMk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 </div>
+
+Bellow is also a small gameplay video:
+
+<div class="row">
+<div class="mx-auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KZM4PQ9ppVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>

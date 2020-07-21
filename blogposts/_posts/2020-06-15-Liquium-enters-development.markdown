@@ -7,4 +7,7 @@ tags: reven.jpg
 author: Tiago
 excerpt: A new game engine enter development
 ---
-template
+
+Liquium Engine Has Entered Development
+
+* Note: This post is temporary and will be filled out as soon as possible *

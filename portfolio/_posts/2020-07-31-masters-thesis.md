@@ -3,7 +3,7 @@ layout: post
 title:  "Real-Time Ray Traced Voxel Global Illumination - Master's Dissertation"
 date:   2020-07-10 23:50:37 +0100
 categories: jekyll update
-tags: city-bp.jpg
+tags: render.jpg
 author: Tiago
 excerpt: A 2D game for the Minix operating system, developed in C using only the C standard library and Minix's OS API.
 ---

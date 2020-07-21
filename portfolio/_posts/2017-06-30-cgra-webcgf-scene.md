@@ -20,7 +20,7 @@ This project was developed as part of an introductory computer graphics class. T
 
 <div class="row">
 <div class="mx-auto">
-    <img class="img img-fluid" src="/images/"> 
+    <img class="img img-fluid" src="/images/cgra.png"> 
 </div>
 </div>
 

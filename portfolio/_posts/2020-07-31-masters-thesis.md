@@ -33,3 +33,36 @@ I would also like to add that in the near future I intendt to write up a blog po
 # Some backstory on the implementation
 
 I think its interesting to mention that the underlying renderer started its life as a personal project that I was working on to learn DirectX12. However, as the search for an implementation platform went on, I realized that the easiest way for me to do this work, would be to use this personal project and to just implement any missing features that I had no added in by then, this meant texture support, model loading and a GUI. Its interesting to think what would have happened if I had not made the somewhat random decision to start learning DirectX12 in August of 2019, guess life trully is a series of coincidences. The one great thing is that through this work I have definitly solidified my understand of Direct3D 12 and am now very confortable with it.
+
+# Demonstration
+
+<div class="row">
+
+<div class="col-6">
+<div class="mx-auto">
+    <img class="img img-fluid" src="/images/tese/sibenik.jpg">
+</div>
+</div>
+
+<div class="col-6">
+<div class="mx-auto">
+    <img class="img img-fluid" src="/images/tese/sponza.jpg">
+</div>
+</div>
+
+</div>
+
+<br>
+
+<div class="row">
+
+<div class="mx-auto">
+<iframe width="784" height="441" src="https://www.youtube.com/embed/BvCptNtwN90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="mx-auto">
+<iframe width="784" height="441" src="https://www.youtube.com/embed/oQvAEOwUNlU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+</div>
+<br>

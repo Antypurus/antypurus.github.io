@@ -16,6 +16,8 @@ Programing Languages: `C++, HLSL`
 
 Repository: [`https://github.com/TiagoJoseMagalhaes/DX_Renderer`](https://github.com/TiagoJoseMagalhaes/DX_Renderer)
 
+<a src="/images/tese/Real Time Ray Traced Voxel Global Illumination.pdf">Dissertation Document</a>
+
 # Description
 
 This work is my master dissertaion. Its initial goal was to develop a technique that hybridized conventional rasterization with the new real-time ray tracing technology in order to reach a middle point between image-quality and performance. This was very open ended, so I spent 90% of my state-of-the-art research going over the field of global illumination as a whole, in February I decided to move into an approach based on voxels, hence the name of this work.

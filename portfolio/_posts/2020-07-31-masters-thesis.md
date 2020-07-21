@@ -16,7 +16,7 @@ Programing Languages: `C++, HLSL`
 
 Repository: [`https://github.com/TiagoJoseMagalhaes/DX_Renderer`](https://github.com/TiagoJoseMagalhaes/DX_Renderer)
 
-[Dissertation Document]("/images/tese/Real Time Ray Traced Voxel Global Illumination.pdf")
+[Dissertation Document](/images/tese/Real Time Ray Traced Voxel Global Illumination.pdf)
 
 # Description
 

@@ -9,7 +9,7 @@ excerpt: A 2D game for the Minix operating system, developed in C using only the
 ---
 
 <div class="alert alert-warning text-center" role="alert">
-  I will be defending this work on Friday, July the 24th, and the final document version will be handed in on the 31st. After that I will make that document available here for all those who are interested in having more insight into my masters dissertation work.
+ I will be defending this work on Friday, July the 24th, and the final document version will be handed in on the 31st. After that I will make that document available here for all those who are interested in having more insight into my masters dissertation work.
 </div>
 
 Programing Languages: `C++, HLSL`
@@ -33,4 +33,3 @@ I would also like to add that in the near future I intendt to write up a blog po
 # Some backstory on the implementation
 
 I think its interesting to mention that the underlying renderer started its life as a personal project that I was working on to learn DirectX12. However, as the search for an implementation platform went on, I realized that the easiest way for me to do this work, would be to use this personal project and to just implement any missing features that I had no added in by then, this meant texture support, model loading and a GUI. Its interesting to think what would have happened if I had not made the somewhat random decision to start learning DirectX12 in August of 2019, guess life trully is a series of coincidences. The one great thing is that through this work I have definitly solidified my understand of Direct3D 12 and am now very confortable with it.
-

@@ -8,6 +8,6 @@ author: Tiago
 excerpt: A new game engine enter development
 ---
 
-Liquium Engine Has Entered Development
+A new challenger approaches!
 
-* Note: This post is temporary and will be filled out as soon as possible *
+Hello there, I write this post to announce that I will start development on my game engine which I have named Liquium. Its important to keep in mind that this is not supposed to be a commercial game engine, this is something that I am developing for learning purposes and to sate my own curiosity.

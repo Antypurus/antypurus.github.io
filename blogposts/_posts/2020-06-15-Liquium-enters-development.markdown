@@ -5,7 +5,7 @@ date:   2020-08-23 14:00:00 +0100
 categories: jekyll update
 tags: bistro.png
 author: Tiago
-excerpt: A new game engine enter development
+excerpt: A new not-so-competitor enters the ring. In this post I lay out the detail about this new project I am starting.
 ---
 
 Welcome fellow enthusiasts.

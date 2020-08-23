@@ -3,7 +3,7 @@ layout: post
 title:  "Liquium Devlog - Week 0: Beginning Of Development"
 date:   2020-08-23 14:00:00 +0100
 categories: jekyll update
-tags: reven.jpg
+tags: bistro.png
 author: Tiago
 excerpt: A new game engine enter development
 ---

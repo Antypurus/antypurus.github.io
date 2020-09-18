@@ -8,10 +8,6 @@ author: Tiago
 excerpt: A 2D game for the Minix operating system, developed in C using only the C standard library and Minix's OS API.
 ---
 
-<div class="alert alert-warning text-center" role="alert">
- I will be defending this work on Friday, July the 24th, and the final document version will be handed in on the 31st. After that I will make that document available here for all those who are interested in having more insight into my masters dissertation work.
-</div>
-
 Programing Languages: `C++, HLSL`
 
 Repository: [`https://github.com/TiagoJoseMagalhaes/DX_Renderer`](https://github.com/TiagoJoseMagalhaes/DX_Renderer)

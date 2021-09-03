@@ -67,11 +67,11 @@ title: Portfolio
 
                     <ul class="row w-100">
                         {% for project in site.categories.portfolio %}
-                        <div class="col-6">
+                        <div class="col-lg-6 col-md-12 cold-sm-12">
                             <a class="card project" href="{{ project.url}}">
-                                <img class="card-image project_image img-thumbnail" src="/images/{{project.tags}}">
-                                <div class="card-img-overlay">
-                                    <p class="card-title">{{project.title}}</p>
+                                <img class="card-image project_image" src="/images/{{project.tags}}">
+                                <div class="card-img-overlay text-center row">
+                                    <p class="card-title mx-auto my-auto">{{project.title}}</p>
                                 </div>
                             </a>
                         </div>

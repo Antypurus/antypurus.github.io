@@ -65,21 +65,13 @@ title: Portfolio
 
                 <div class="row justify-content-center">
 
-                    <ul class="w-75">
+                    <ul class="row w-100">
                         {% for project in site.categories.portfolio %}
-                        <div class="col-12">
+                        <div class="col-6">
                             <a class="card project" href="{{ project.url}}">
-                                <div class="row">
-                                    <div class="col-8 w-75 h-100 project_text">
-                                        <h5 class="card-header">{{project.title}}</h5>
-                                        <div class="card-body text-justify">
-                                            <!-- <p class="card-text">{{project.excerpt}}</p> -->
-                                        </div>
-                                    </div>
-                                    <div class="col-4 project_image">
-                                        <img class="img-fluid mx-auto  d-block"
-                                             src="/images/{{project.tags}}">
-                                    </div>
+                                <img class="card-image project_image img-thumbnail" src="/images/{{project.tags}}">
+                                <div class="card-img-overlay">
+                                    <p class="card-title">{{project.title}}</p>
                                 </div>
                             </a>
                         </div>

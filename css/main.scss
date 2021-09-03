@@ -43,7 +43,7 @@
       color:white;
       text-shadow: -1px 1px 0 #000,
                     1px 1px 0 #000,
-                  -1px -1px 0 #000;
+                   -1px -1px 0 #000;
     }
     transition: all .2s ease-in-out !important;
   }
@@ -63,10 +63,10 @@
 
 .project:hover {
   p {
-    color: white;
     text-shadow: -1px 1px 0 #000,
                   1px 1px 0 #000,
-                  -1px -1px 0 #000;
+                 -1px -1px 0 #000;
+    color: white !important;
   }
   transform: scale(1.035, 1.035) !important;
   -webkit-transform: scale(1.035, 1.035) !important;

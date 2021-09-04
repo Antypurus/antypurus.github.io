@@ -59,7 +59,7 @@ title: Portfolio
 <div class="container-fluid content-section">
 
         <!-- Featured Projects And Experience Section -->
-        <div id="Featured_Projects_Section" data-aos="fade-up" data-aos-duration="150">
+        <div id="Featured_Projects_Section">
 
             <div id="Projects">
 
@@ -67,14 +67,14 @@ title: Portfolio
 
                     <ul class="row w-100">
                         {% for project in site.categories.portfolio %}
-                        <div class="col-lg-6 col-md-12 cold-sm-12">
-                            <a class="card project" href="{{ project.url}}">
-                                <img class="card-image project_image" src="/images/{{project.tags}}">
-                                <div class="card-img-overlay text-center row">
-                                    <p class="card-title mx-auto my-auto">{{project.title}}</p>
-                                </div>
-                            </a>
-                        </div>
+                            <div class="col-lg-6 col-md-12 cold-sm-12">
+                                <a class="card project" href="{{ project.url}}">
+                                    <img class="card-image project_image" src="/images/{{project.tags}}">
+                                    <div class="card-img-overlay text-center row">
+                                        <h3 class="card-title mx-auto my-auto project_text">{{project.title}}</h3>
+                                    </div>
+                                </a>
+                            </div>
                         {% endfor %}
                     </ul>
 

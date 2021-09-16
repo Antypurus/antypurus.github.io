@@ -17,7 +17,7 @@ title: Portfolio
 
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/main.css?v=2.0">
 
     <title>Portfolio | Tiago Magalhães</title>
 </head>
@@ -38,9 +38,9 @@ title: Portfolio
             <li class="nav-item active nav_button">
                 <a class="nav-link" href="portfolio.html"><b>Portfolio</b></a>
             </li>
-            <li class="nav-item disabled nav_button">
+            <!-- <li class="nav-item disabled nav_button">
                 <a class="nav-link" href="blog.html"><b>Blog</b></a>
-            </li>
+            </li> -->
         </ul>
 
     </div>
@@ -59,30 +59,22 @@ title: Portfolio
 <div class="container-fluid content-section">
 
         <!-- Featured Projects And Experience Section -->
-        <div id="Featured_Projects_Section" data-aos="fade-up" data-aos-duration="150">
+        <div id="Featured_Projects_Section">
 
             <div id="Projects">
 
                 <div class="row justify-content-center">
 
-                    <ul class="w-75">
+                    <ul class="row w-100">
                         {% for project in site.categories.portfolio %}
-                        <div class="col-12">
-                            <a class="card project" href="{{ project.url}}">
-                                <div class="row">
-                                    <div class="col-8 w-75 h-100 project_text">
-                                        <h5 class="card-header">{{project.title}}</h5>
-                                        <div class="card-body text-justify">
-                                            <!-- <p class="card-text">{{project.excerpt}}</p> -->
-                                        </div>
+                            <div class="col-lg-6 col-md-12 cold-sm-12">
+                                <a class="card project" href="{{ project.url}}">
+                                    <img class="card-image project_image" src="/images/{{project.tags}}">
+                                    <div class="card-img-overlay text-center row">
+                                        <h3 class="card-title mx-auto my-auto project_text">{{project.title}}</h3>
                                     </div>
-                                    <div class="col-4 project_image">
-                                        <img class="img-fluid mx-auto  d-block"
-                                             src="/images/{{project.tags}}">
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
+                                </a>
+                            </div>
                         {% endfor %}
                     </ul>
 
